@@ -2,7 +2,7 @@
 
 I'm an enthusiastic SIJA graduate from SMK Negeri 1 Dlanggu, driven by a curiosity for technology and a love of tech stories. My journey involves diving into the world of web development, exploring new ideas, and sharing my insights with the community.
 
-![DANAR-sft Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![DANAR-sft's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
