@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner Profil NamaKamu" width="100%" />
+</p>
+
 # Hi, I'm Mohammad Danar Tri Setio Suntoro! 👋
 
 I'm an enthusiastic SIJA graduate from SMK Negeri 1 Dlanggu, driven by a curiosity for technology and a love of tech stories. My journey involves diving into the world of web development, exploring new ideas, and sharing my insights with the community.
@@ -13,8 +17,16 @@ I'm an enthusiastic SIJA graduate from SMK Negeri 1 Dlanggu, driven by a curiosi
 ## My Articles
 - Coming soon
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,next,postgresql,flutter)](https://skillicons.dev)
+### 🚀 My Tech Stack
+
+#### **Frontend & Mobile**
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter,dart,express,typescript)
+
+#### **Backend & Database**
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,supabase,postman)
+
+#### **Tools**
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio)
 
 ## 🌱 Currently Exploring
 
