@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner Profil NamaKamu" width="100%" />
+  <img src="banner-github.png" alt="Banner Profil NamaKamu" width="100%" />
 </p>
 
 # Hi, I'm Mohammad Danar Tri Setio Suntoro! 👋
@@ -10,12 +10,10 @@ I'm an enthusiastic SIJA graduate from SMK Negeri 1 Dlanggu, driven by a curiosi
 
 ## 🚀 About Me
 
-- 🔭 I'm currently learn the latest industry-standard programming skills, and ready to compete in the job market.
+- 🔭 I'm currently learn the latest industry-standard programming skills in dumbways.
 - 🌐 Proud member of the [Dumbways.id](https://dumbways.id/)
 
 
-## My Articles
-- Coming soon
 
 ### 🚀 My Tech Stack
 
@@ -30,15 +28,16 @@ I'm an enthusiastic SIJA graduate from SMK Negeri 1 Dlanggu, driven by a curiosi
 
 ## 🌱 Currently Exploring
 
+- 📱 Learning Mobile App Development
+  - Exploring Flutter to build beautiful, high-performance, natively compiled applications for mobile (Android).
+    
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Express, a fast, minimalist Node.js web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
-    
-- 📱 Learning Mobile App Development
-  - Exploring Flutter to build beautiful, high-performance, natively compiled applications for mobile (Android).
+
 
 ## 📬 Get in Touch
 
