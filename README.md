@@ -6,8 +6,6 @@
 
 I'm an enthusiastic SIJA graduate from SMK Negeri 1 Dlanggu, driven by a curiosity for technology and a love of tech stories. My journey involves diving into the world of web development, exploring new ideas, and sharing my insights with the community.
 
-![DANAR-sft's Stats](https://github-readme-stats.vercel.app/api?username=DANAR-sft&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I'm currently learn the latest industry-standard programming skills in dumbways.
@@ -96,7 +94,7 @@ I'm an enthusiastic SIJA graduate from SMK Negeri 1 Dlanggu, driven by a curiosi
   - Diving into PostgreSQL for efficient and scalable database management.
 
 
-## 📬 Get in Touch
+## 📬 Let's Connect
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-danar-tri-setio-suntoro), [Instagram](https://www.instagram.com/daantrifad/), [Github](https://github.com/DANAR-sft)
 - See more about me on [personal web](https://dnr-portofolio-web.netlify.app)
