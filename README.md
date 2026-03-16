@@ -79,7 +79,7 @@ I'm an enthusiastic SIJA graduate from SMK Negeri 1 Dlanggu, driven by a curiosi
         Prisma,
         PostgreSQL,
         Tailwind CSS,
-        Shadcn/ui.</p>
+        shadcn/ui.</p>
       <a href="https://github.com/DANAR-sft">🔗 Source Code</a> | <a href="https://circle-app-frontend-iota.vercel.app/login">💻 Live Demo</a>
     </td>
   </tr>
