@@ -41,14 +41,19 @@ I'm an enthusiastic SIJA graduate from SMK Negeri 1 Dlanggu, driven by a curiosi
       <img src="weeklybite1.png" width="100%" style="height: 200px; object-fit: cover;" alt="Weekly Bite">
       <h3>🥗 Weekly Bite (AI Meal Planner)</h3>
       <p>A web app using Google Gemini AI to generate 7-day meal plans based on calories, macros, and allergies.</p>
-      <p><b>Stack:</b> React.js, Next.js, Gemini AI API, Tailwind CSS.</p>
+      <p><b>Stack:</b>Next.js, Gemini AI API, Tailwind CSS, Supabase, shadcn/ui, Typescript.</p>
       <a href="https://github.com/DANAR-sft">🔗 Source Code</a> | <a href="https://weekly-bite-two.vercel.app/">💻 Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <img src="simpleresu0.png" width="100%" style="height: 200px; object-fit: cover;" alt="SimpleResu">
       <h3>📝 SimpleResu (Resume Builder)</h3>
       <p>A professional resume builder with a step-by-step flow and PDF export features.</p>
-      <p><b>Stack:</b> React.js, TypeScript, Tailwind CSS, Lucide React.</p>
+      <p><b>Stack:</b> Next.js,
+        Tailwind CSS,
+        shadcn/ui,
+        Supabase,
+        Express.js,
+        Prisma.</p>
       <a href="https://github.com/DANAR-sft">🔗 Source Code</a> | <a href="https://simpleresu.netlify.app/">💻 Live Demo</a>
     </td>
   </tr>
@@ -57,14 +62,24 @@ I'm an enthusiastic SIJA graduate from SMK Negeri 1 Dlanggu, driven by a curiosi
       <img src="mwatch1.png" width="100%" style="height: 200px; object-fit: cover;" alt="MWatch">
       <h3>⌚ MWatch (Mini Store)</h3>
       <p>E-commerce web store with real-time cart management, admin dashboard, and payment gateway.</p>
-      <p><b>Stack:</b> React.js, Node.js, Express, MySQL.</p>
+      <p><b>Stack:</b>Supabase,
+        Next.js,
+        TypeScript,
+        Tailwind CSS,
+        shadcn/ui</p>
       <a href="https://github.com/DANAR-sft">🔗 Source Code</a> | <a href="https://mwatch-mini-store.vercel.app/">💻 Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <img src="circle1.png" width="100%" style="height: 200px; object-fit: cover;" alt="Social Media Website">
       <h3>🤝 Circle (Social Media App)</h3>
       <p>Modern social media app featuring user authentication, threads, replies, and real-time interactions.</p>
-      <p><b>Stack:</b> React.js, TypeScript, Node.js, PostgreSQL.</p>
+      <p><b>Stack:</b>React.js,
+        TypeScript,
+        Express.js,
+        Prisma,
+        PostgreSQL,
+        Tailwind CSS,
+        Shadcn/ui.</p>
       <a href="https://github.com/DANAR-sft">🔗 Source Code</a> | <a href="https://circle-app-frontend-iota.vercel.app/login">💻 Live Demo</a>
     </td>
   </tr>
@@ -73,7 +88,7 @@ I'm an enthusiastic SIJA graduate from SMK Negeri 1 Dlanggu, driven by a curiosi
       <img src="personal_expense_tracker0.jpg" style="width: 50%; max-width: 600px; height: 400px;" alt="Expense Tracker">
       <h3>📱 Personal Expense Tracker</h3>
       <p>Mobile application to track user expenses by manual adding and categorizing.</p>
-      <p><b>Stack:</b> Flutter, Dart.</p>
+      <p><b>Stack:</b>Flutter, Dart, Android Studio.</p>
       <a href="https://github.com/DANAR-sft">🔗 Source Code</a> | <a href="https://drive.google.com/file/d/1TeM-RBmK4X-6tO-Yip2pOI2FiOB8LzXQ/view">📲 Download APK</a>
     </td>
     <td width="50%">
