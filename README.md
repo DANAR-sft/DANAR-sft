@@ -123,13 +123,13 @@ Looking back, it's clear that being a developer goes beyond rote memorization, i
     <td width="50%" valign="top">
       <img src="personal_expense_tracker0.jpg" style="width: 50%; max-width: 600px; height: 400px;" alt="Expense Tracker">
       <h3>📱 Personal Expense Tracker</h3>
-      <p>Mobile application to track user expenses by manual adding and categorizing.</p>
+      <p>Mobile application to track user expenses by manually adding and categorizing.</p>
       <p><b>Stack:</b> Flutter, Dart, Android Studio.</p>
       <p><b>Feature:</b></p>
       <ul>
         <li>Form for adding expense by category</li>
         <li>Expense list</li>
-        <li>Expense dalculation</li>
+        <li>Expense Calculation</li>
         <li>Expense delete</li>
       </ul>
       <a href="https://github.com/DANAR-sft">🔗 Source Code</a> | <a href="https://drive.google.com/file/d/1TeM-RBmK4X-6tO-Yip2pOI2FiOB8LzXQ/view">📲 Download APK</a>
