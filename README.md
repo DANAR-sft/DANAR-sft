@@ -2,9 +2,15 @@
   <img src="banner-github.png" alt="Banner Profil NamaKamu" width="100%" />
 </p>
 
-# Hi, I'm Mohammad Danar Tri Setio Suntoro! 👋
+# Mohammad Danar Tri Setio Suntoro | Full-Stack Developer | React.js, Next.js, Node.js & Flutter | Crafting
 
-I'm an enthusiastic SIJA graduate from SMK Negeri 1 Dlanggu, driven by a curiosity for technology and a love of tech stories. My journey involves diving into the world of web development, exploring new ideas, and sharing my insights with the community.
+Graduating from vocational school (SMK) was a significant wake-up call for me. The tech world, I discovered, operates at a pace far removed from the academic setting. A year spent fumbling through things solo made it clear I needed a significant push to advance truly. So, I took the plunge and signed up for the Full-Stack Developer bootcamp at Dumbways.
+
+My aim was straightforward, yet ambitious, to transition from student to professional. I wasn't just looking to learn to code, I wanted to understand how to build systems that genuinely address real-world issues.
+
+During the bootcamp, I spent many late nights wrestling with JavaScript, React, and building mobile apps using Flutter. I learned firsthand the frustration of debugging at 11 PM, and the immense satisfaction of finally getting intricate logic to function flawlessly. This experience led to several projects, including SimpleResu, which taught crucial lessons about clean code and the value of collaboration.
+
+Looking back, it's clear that being a developer goes beyond rote memorization, it's about how swiftly you can adapt and absorb new information. I'm now invigorated and eager to bring that passion, along with my technical abilities, to a dynamic team. I'm looking for a chance to contribute, keep learning, and develop alongside a great company.
 
 ## 🚀 About Me
 
@@ -13,25 +19,13 @@ I'm an enthusiastic SIJA graduate from SMK Negeri 1 Dlanggu, driven by a curiosi
 
 
 
-### 🚀 My Tech Stack
+### 🛠️ Tech Stack & Tools
 
-#### **Frontend & Mobile**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-#### **Backend & Database**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-#### **Toolsa and Others**
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend & Mobile** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Backend & Database** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+| **Tools & Others** | ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 ### 🚀 Featured Projects
 
