@@ -36,7 +36,7 @@ Looking back, it's clear that being a developer goes beyond rote memorization, i
       <h3>🥗 Weekly Bite (AI Meal Planner)</h3>
       <p>A web app using Google Gemini AI to generate 7-day meal plans based on calories, macros, and allergies.</p>
       <p><b>Stack:</b> Next.js, Gemini AI API, Tailwind CSS, Supabase, shadcn/ui, Typescript.</p>
-      <h3>Feature</h3>
+      <p><b>Feature:</b></p>
       <ul>
         <li>Authentication</li>
         <li>Create plan</li>
@@ -57,7 +57,7 @@ Looking back, it's clear that being a developer goes beyond rote memorization, i
         Supabase,
         Express.js,
         Prisma.</p>
-      <h3>Feature</h3>
+      <p><b>Feature:</b></p>
       <ul>
         <li>Authentication</li>
         <li>Create resume</li>
@@ -80,7 +80,7 @@ Looking back, it's clear that being a developer goes beyond rote memorization, i
         TypeScript,
         Tailwind CSS,
         shadcn/ui.</p>
-      <h3>Feature</h3>
+      <p><b>Feature:</b></p>
       <ul>
         <li>Authentication</li>
         <li>Product list</li>
@@ -105,7 +105,7 @@ Looking back, it's clear that being a developer goes beyond rote memorization, i
         PostgreSQL,
         Tailwind CSS,
         shadcn/ui.</p>
-      <h3>Feature</h3>
+      <p><b>Feature:</b></p>
       <ul>
         <li>Authentication</li>
         <li>Create Thread</li>
@@ -125,7 +125,7 @@ Looking back, it's clear that being a developer goes beyond rote memorization, i
       <h3>📱 Personal Expense Tracker</h3>
       <p>Mobile application to track user expenses by manual adding and categorizing.</p>
       <p><b>Stack:</b> Flutter, Dart, Android Studio.</p>
-      <h3>Feature</h3>
+      <p><b>Feature:</b></p>
       <ul>
         <li>Form for adding expense by category</li>
         <li>Expense list</li>
