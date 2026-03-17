@@ -116,7 +116,6 @@ Looking back, it's clear that being a developer goes beyond rote memorization, i
         <li>Dark & light Theme</li>
         <li>Reply & like thread</li>
       </ul>
-      
       <a href="https://github.com/DANAR-sft">🔗 Source Code</a> | <a href="https://circle-app-frontend-iota.vercel.app/login">💻 Live Demo</a>
     </td>
   </tr>
