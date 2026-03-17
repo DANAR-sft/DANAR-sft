@@ -36,6 +36,13 @@ Looking back, it's clear that being a developer goes beyond rote memorization, i
       <h3>🥗 Weekly Bite (AI Meal Planner)</h3>
       <p>A web app using Google Gemini AI to generate 7-day meal plans based on calories, macros, and allergies.</p>
       <p><b>Stack:</b> Next.js, Gemini AI API, Tailwind CSS, Supabase, shadcn/ui, Typescript.</p>
+       <h3>Feature</h3>
+      <ul>
+        <li>Create plan</li>
+        <li>My Plan</li>
+        <li>ingredients list</li>
+        <li>Download PDF</li>
+      </ul>
       <a href="https://github.com/DANAR-sft">🔗 Source Code</a> | <a href="https://weekly-bite-two.vercel.app/">💻 Live Demo</a>
     </td>
     <td width="50%" valign="top">
