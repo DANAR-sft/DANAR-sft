@@ -2,7 +2,7 @@
   <img src="banner-github.png" alt="Banner Profil NamaKamu" width="100%" />
 </p>
 
-# Mohammad Danar Tri Setio Suntoro | Full-Stack Developer | React.js, Next.js, Node.js & Flutter | Crafting
+# Mohammad Danar Tri Setio Suntoro | Full-Stack Developer | React.js, Next.js, Node.js & Flutter | Crafting clean and responsive web & mobile applications
 
 Graduating from vocational school (SMK) was a significant wake-up call for me. The tech world, I discovered, operates at a pace far removed from the academic setting. A year spent fumbling through things solo made it clear I needed a significant push to advance truly. So, I took the plunge and signed up for the Full-Stack Developer bootcamp at Dumbways.
 
