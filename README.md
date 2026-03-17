@@ -36,13 +36,15 @@ Looking back, it's clear that being a developer goes beyond rote memorization, i
       <h3>🥗 Weekly Bite (AI Meal Planner)</h3>
       <p>A web app using Google Gemini AI to generate 7-day meal plans based on calories, macros, and allergies.</p>
       <p><b>Stack:</b> Next.js, Gemini AI API, Tailwind CSS, Supabase, shadcn/ui, Typescript.</p>
-       <h3>Feature</h3>
+      <h3>Feature</h3>
       <ul>
+        <li>Authentication</li>
         <li>Create plan</li>
-        <li>My Plan</li>
-        <li>ingredients list</li>
-        <li>Download PDF</li>
-      </ul>
+        <li>Plan Management</li>
+        <li>Ingredients list</li>
+        <li>Swap meal</li>
+        <li>Download ingredients list in PDF</li>
+      </ul> 
       <a href="https://github.com/DANAR-sft">🔗 Source Code</a> | <a href="https://weekly-bite-two.vercel.app/">💻 Live Demo</a>
     </td>
     <td width="50%" valign="top">
@@ -55,6 +57,16 @@ Looking back, it's clear that being a developer goes beyond rote memorization, i
         Supabase,
         Express.js,
         Prisma.</p>
+      <h3>Feature</h3>
+      <ul>
+        <li>Authentication</li>
+        <li>Create resume</li>
+        <li>Choose design template</li>
+        <li>Resume Customize</li>
+        <li>live preview</li>
+        <li>Resume management</li>
+        <li>Download Resume in PDF</li>
+      </ul>
       <a href="https://github.com/DANAR-sft">🔗 Source Code</a> | <a href="https://simpleresu.netlify.app/">💻 Live Demo</a>
     </td>
   </tr>
@@ -68,6 +80,18 @@ Looking back, it's clear that being a developer goes beyond rote memorization, i
         TypeScript,
         Tailwind CSS,
         shadcn/ui.</p>
+      <h3>Feature</h3>
+      <ul>
+        <li>Authentication</li>
+        <li>Product list</li>
+        <li>Product filter</li>
+        <li>User order tracking</li>
+        <li>Cart product</li>
+        <li>Payment gateaway</li>
+        <li>Realtime update</li>
+        <li>Admin product management & monitoring</li>
+        <li>Admin order tracking & monitoring</li>
+      </ul>
       <a href="https://github.com/DANAR-sft">🔗 Source Code</a> | <a href="https://mwatch-mini-store.vercel.app/">💻 Live Demo</a>
     </td>
     <td width="50%" valign="top">
@@ -81,6 +105,18 @@ Looking back, it's clear that being a developer goes beyond rote memorization, i
         PostgreSQL,
         Tailwind CSS,
         shadcn/ui.</p>
+      <h3>Feature</h3>
+      <ul>
+        <li>Authentication</li>
+        <li>Create Thread</li>
+        <li>Profile Customize</li>
+        <li>Search</li>
+        <li>Follow & Unfollow</li>
+        <li>Realtime thread update</li>
+        <li>Dark & light Theme</li>
+        <li>Reply & like thread</li>
+      </ul>
+      
       <a href="https://github.com/DANAR-sft">🔗 Source Code</a> | <a href="https://circle-app-frontend-iota.vercel.app/login">💻 Live Demo</a>
     </td>
   </tr>
@@ -90,6 +126,13 @@ Looking back, it's clear that being a developer goes beyond rote memorization, i
       <h3>📱 Personal Expense Tracker</h3>
       <p>Mobile application to track user expenses by manual adding and categorizing.</p>
       <p><b>Stack:</b> Flutter, Dart, Android Studio.</p>
+      <h3>Feature</h3>
+      <ul>
+        <li>Form for adding expense by category</li>
+        <li>Expense list</li>
+        <li>Expense dalculation</li>
+        <li>Expense delete</li>
+      </ul>
       <a href="https://github.com/DANAR-sft">🔗 Source Code</a> | <a href="https://drive.google.com/file/d/1TeM-RBmK4X-6tO-Yip2pOI2FiOB8LzXQ/view">📲 Download APK</a>
     </td>
     <td width="50%">
