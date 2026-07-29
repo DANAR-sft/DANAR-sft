@@ -14,7 +14,7 @@ Looking back, it's clear that being a developer goes beyond rote memorization, i
 
 ## 🚀 About Me
 
-- 🔭 I'm currently learn the latest industry-standard programming skills in dumbways.
+- 🔭 I'm currently learn the latest industry-standard programming skills in scrimba.
 - 🌐 Proud member of the [Dumbways.id](https://dumbways.id/)
 
 
